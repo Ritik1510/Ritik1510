@@ -1,4 +1,4 @@
-👋 Hi, I’m @motanelson
+👋 Hi, I’m ritik
 
 <!--
 **Ritik1510/Ritik1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
